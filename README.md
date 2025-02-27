@@ -1,2 +1,2 @@
-# fitness-tracker
+# fitness
 this my fitness tracker
